@@ -1,0 +1,5 @@
+.env
+token.json
+venv/
+*.log
+drivers/
